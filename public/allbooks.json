@@ -1,0 +1,334 @@
+{"books":
+[
+    {
+        "BookName": "Genesis",
+        "Chapters": "50",
+        "BookNo": "0"
+    },
+    {
+        "BookName": "Exodus",
+        "Chapters": "40",
+        "BookNo": "1"
+    },
+    {
+        "BookName": "Leviticus",
+        "Chapters": "27",
+        "BookNo": "2"
+    },
+    {
+        "BookName": "Numbers",
+        "Chapters": "36",
+        "BookNo": "3"
+    },
+    {
+        "BookName": "Deuteronomy",
+        "Chapters": "34",
+        "BookNo": "4"
+    },
+    {
+        "BookName": "Joshua",
+        "Chapters": "24",
+        "BookNo": "5"
+    },
+    {
+        "BookName": "Judges",
+        "Chapters": "21",
+        "BookNo": "6"
+    },
+    {
+        "BookName": "Ruth",
+        "Chapters": "4",
+        "BookNo": "7"
+    },
+    {
+        "BookName": "1 Samuel",
+        "Chapters": "31",
+        "BookNo": "8"
+    },
+    {
+        "BookName": "2 Samuel",
+        "Chapters": "24",
+        "BookNo": "9"
+    },
+    {
+        "BookName": "1 Kings",
+        "Chapters": "22",
+        "BookNo": "10"
+    },
+    {
+        "BookName": "2 Kings",
+        "Chapters": "25",
+        "BookNo": "11"
+    },
+    {
+        "BookName": "1 Chronicles",
+        "Chapters": "29",
+        "BookNo": "12"
+    },
+    {
+        "BookName": "2 Chronicles",
+        "Chapters": "36",
+        "BookNo": "13"
+    },
+    {
+        "BookName": "Ezra",
+        "Chapters": "10",
+        "BookNo": "14"
+    },
+    {
+        "BookName": "Nehemiah",
+        "Chapters": "13",
+        "BookNo": "15"
+    },
+    {
+        "BookName": "Esther",
+        "Chapters": "10",
+        "BookNo": "16"
+    },
+    {
+        "BookName": "Job",
+        "Chapters": "42",
+        "BookNo": "17"
+    },
+    {
+        "BookName": "Psalms",
+        "Chapters": "150",
+        "BookNo": "18"
+    },
+    {
+        "BookName": "Proverbs",
+        "Chapters": "31",
+        "BookNo": "19"
+    },
+    {
+        "BookName": "Ecclesiastes",
+        "Chapters": "12",
+        "BookNo": "20"
+    },
+    {
+        "BookName": "Song of Solomon",
+        "Chapters": "8",
+        "BookNo": "21"
+    },
+    {
+        "BookName": "Isaiah",
+        "Chapters": "66",
+        "BookNo": "22"
+    },
+    {
+        "BookName": "Jeremiah",
+        "Chapters": "52",
+        "BookNo": "23"
+    },
+    {
+        "BookName": "Lamentations",
+        "Chapters": "5",
+        "BookNo": "24"
+    },
+    {
+        "BookName": "Ezekiel",
+        "Chapters": "48",
+        "BookNo": "25"
+    },
+    {
+        "BookName": "Daniel",
+        "Chapters": "12",
+        "BookNo": "26"
+    },
+    {
+        "BookName": "Hosea",
+        "Chapters": "14",
+        "BookNo": "27"
+    },
+    {
+        "BookName": "Joel",
+        "Chapters": "3",
+        "BookNo": "28"
+    },
+    {
+        "BookName": "Amos",
+        "Chapters": "9",
+        "BookNo": "29"
+    },
+    {
+        "BookName": "Obadiah",
+        "Chapters": "1",
+        "BookNo": "30"
+    },
+    {
+        "BookName": "Jonah",
+        "Chapters": "4",
+        "BookNo": "31"
+    },
+    {
+        "BookName": "Micah",
+        "Chapters": "7",
+        "BookNo": "32"
+    },
+    {
+        "BookName": "Nahum",
+        "Chapters": "3",
+        "BookNo": "33"
+    },
+    {
+        "BookName": "Habakkuk",
+        "Chapters": "3",
+        "BookNo": "34"
+    },
+    {
+        "BookName": "Zephaniah",
+        "Chapters": "3",
+        "BookNo": "35"
+    },
+    {
+        "BookName": "Haggai",
+        "Chapters": "2",
+        "BookNo": "36"
+    },
+    {
+        "BookName": "Zechariah",
+        "Chapters": "14",
+        "BookNo": "37"
+    },
+    {
+        "BookName": "Malachi",
+        "Chapters": "4",
+        "BookNo": "38"
+    },
+    {
+        "BookName": "Matthew",
+        "Chapters": "28",
+        "BookNo": "39"
+    },
+    {
+        "BookName": "Mark",
+        "Chapters": "16",
+        "BookNo": "40"
+    },
+    {
+        "BookName": "Luke",
+        "Chapters": "24",
+        "BookNo": "41"
+    },
+    {
+        "BookName": "John",
+        "Chapters": "21",
+        "BookNo": "42"
+    },
+  
+    {
+        "BookName": "Acts",
+        "Chapters": "28",
+        "BookNo": "43"
+    },
+    {
+        "BookName": "Romans",
+        "Chapters": "16",
+        "BookNo": "44"
+    },
+    {
+        "BookName": "1 Corinthians",
+        "Chapters": "16",
+        "BookNo": "44"
+    },
+    {
+        "BookName": "2 Corinthians",
+        "Chapters": "13",
+        "BookNo": "45"
+    },
+    {
+        "BookName": "Galatians",
+        "Chapters": "6",
+        "BookNo": "47"
+    },
+    {
+        "BookName": "Ephesians",
+        "Chapters": "6",
+        "BookNo": "48"
+    },
+    {
+        "BookName": "Philippians",
+        "Chapters": "4",
+        "BookNo": "49"
+    },
+    {
+        "BookName": "Colossians",
+        "Chapters": "4",
+        "BookNo": "50"
+    },
+    {
+        "BookName": "1 Thessalonians",
+        "Chapters": "5",
+        "BookNo": "51"
+    },
+    {
+        "BookName": "2 Thessalonians",
+        "Chapters": "3",
+        "BookNo": "52"
+    },
+    {
+        "BookName": "1 Timothy",
+        "Chapters": "6",
+        "BookNo": "53"
+    },
+    {
+        "BookName": "2 Timothy",
+        "Chapters": "4",
+        "BookNo": "54"
+    },
+    {
+        "BookName": "Titus",
+        "Chapters": "3",
+        "BookNo": "55"
+    },
+    {
+        "BookName": "Philemon",
+        "Chapters": "1",
+        "BookNo": "56"
+    },
+    {
+        "BookName": "Hebrews",
+        "Chapters": "13",
+        "BookNo": "57"
+    },
+    {
+        "BookName": "James",
+        "Chapters": "5",
+        "BookNo": "58"
+    },
+    {
+        "BookName": "1 Peter",
+        "Chapters": "5",
+        "BookNo": "59"
+    },
+    {
+        "BookName": "2 Peter",
+        "Chapters": "3",
+        "BookNo": "60"
+    },
+    {
+        "BookName": "1 John",
+        "Chapters": "5",
+        "BookNo": "61"
+    },
+    {
+        "BookName": "2 John",
+        "Chapters": "1",
+        "BookNo": "62"
+    },
+    {
+        "BookName": "3 John",
+        "Chapters": "1",
+        "BookNo": "63"
+    },
+    {
+        "BookName": "Jude",
+        "Chapters": "1",
+        "BookNo": "64"
+    },
+    {
+        "BookName": "Revelation",
+        "Chapters": "22",
+        "BookNo": "65"
+    }
+] }

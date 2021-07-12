@@ -1,0 +1,24 @@
+{
+  "name": "bible6",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "material-design-icons": "^3.0.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "mobile-device-detect": "^0.4.3",
+    "vue": "^3.0.5",
+    "vue-mobile-detection": "^1.0.0",
+    "vue-router": "^4.0.8",
+    "vue-scrollto": "^2.20.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.2.3"
+  }
+}

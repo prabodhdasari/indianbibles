@@ -1,0 +1,372 @@
+
+
+{"books":
+    [
+        {
+          "BookName": "Genesis",
+          "Chapters": 50,
+          "BookNo": 1
+        },
+        {
+          "BookName": "Exodus",
+          "Chapters": 40,
+          "BookNo": 2
+        },
+        {
+          "BookName": "Leviticus",
+          "Chapters": 27,
+          "BookNo": 3
+        },
+        {
+          "BookName": "Numbers",
+          "Chapters": 36,
+          "BookNo": 4
+        },
+        {
+          "BookName": "Deuteronomy",
+          "Chapters": 34,
+          "BookNo": 5
+        },
+        {
+          "BookName": "Joshua",
+          "Chapters": 24,
+          "BookNo": 6
+        },
+        {
+          "BookName": "Judges",
+          "Chapters": 21,
+          "BookNo": 7
+        },
+        {
+          "BookName": "Ruth",
+          "Chapters": 4,
+          "BookNo": 8
+        },
+        {
+          "BookName": "1 Samuel",
+          "Chapters": 31,
+          "BookNo": 9
+        },
+        {
+          "BookName": "2 Samuel",
+          "Chapters": 24,
+          "BookNo": 10
+        },
+        {
+          "BookName": "1 Kings",
+          "Chapters": 22,
+          "BookNo": 11
+        },
+        {
+          "BookName": "2 Kings",
+          "Chapters": 25,
+          "BookNo": 12
+        },
+        {
+          "BookName": "1 Chronicles",
+          "Chapters": 29,
+          "BookNo": 13
+        },
+        {
+          "BookName": "2 Chronicles",
+          "Chapters": 36,
+          "BookNo": 14
+        },
+        {
+          "BookName": "Ezra",
+          "Chapters": 10,
+          "BookNo": 15
+        },
+        {
+          "BookName": "Nehemiah",
+          "Chapters": 13,
+          "BookNo": 16
+        },
+        {
+          "BookName": "Tobith",
+          "Chapters": 14,
+          "BookNo": 17
+        },
+        {
+          "BookName": "Judith",
+          "Chapters": 16,
+          "BookNo": 18
+        },
+        {
+          "BookName": "Esther",
+          "Chapters": 10,
+          "BookNo": 19
+        },
+        {
+          "BookName": "1 Maccabees",
+          "Chapters": 16,
+          "BookNo": 20
+        },
+        {
+          "BookName": "2 Maccabees",
+          "Chapters": 15,
+          "BookNo": 21
+        },
+        {
+          "BookName": "Job",
+          "Chapters": 42,
+          "BookNo": 22
+        },
+        {
+          "BookName": "Psalms",
+          "Chapters": 150,
+          "BookNo": 23
+        },
+        {
+          "BookName": "Proverbs",
+          "Chapters": 31,
+          "BookNo": 24
+        },
+        {
+          "BookName": "Ecclesiastes",
+          "Chapters": 12,
+          "BookNo": 25
+        },
+        {
+          "BookName": "Song of Solomon",
+          "Chapters": 8,
+          "BookNo": 26
+        },
+        {
+          "BookName": "Wisdom of Solomon",
+          "Chapters": 19,
+          "BookNo": 27
+        },
+        {
+          "BookName": "Sirach/Ecclesiasticus",
+          "Chapters": 51,
+          "BookNo": 28
+        },
+        {
+          "BookName": "Isaiah",
+          "Chapters": 66,
+          "BookNo": 29
+        },
+        {
+          "BookName": "Jeremiah",
+          "Chapters": 52,
+          "BookNo": 30
+        },
+        {
+          "BookName": "Lamentations",
+          "Chapters": 5,
+          "BookNo": 31
+        },
+        {
+          "BookName": "Baruch",
+          "Chapters": 6,
+          "BookNo": 32
+        },
+        {
+          "BookName": "Ezekiel",
+          "Chapters": 48,
+          "BookNo": 33
+        },
+        {
+          "BookName": "Daniel",
+          "Chapters": 12,
+          "BookNo": 34
+        },
+        {
+          "BookName": "Hosea",
+          "Chapters": 34,
+          "BookNo": 35
+        },
+        {
+          "BookName": "Joel",
+          "Chapters": 3,
+          "BookNo": 36
+        },
+        {
+          "BookName": "Amos",
+          "Chapters": 9,
+          "BookNo": 37
+        },
+        {
+          "BookName": "Obadiah",
+          "Chapters": 1,
+          "BookNo": 38
+        },
+        {
+          "BookName": "Jonah",
+          "Chapters": 4,
+          "BookNo": 39
+        },
+        {
+          "BookName": "Micah",
+          "Chapters": 7,
+          "BookNo": 40
+        },
+        {
+          "BookName": "Nahum",
+          "Chapters": 3,
+          "BookNo": 41
+        },
+        {
+          "BookName": "Habakkuk",
+          "Chapters": 3,
+          "BookNo": 42
+        },
+        {
+          "BookName": "Zephaniah",
+          "Chapters": 3,
+          "BookNo": 43
+        },
+        {
+          "BookName": "Haggai",
+          "Chapters": 2,
+          "BookNo": 44
+        },
+        {
+          "BookName": "Zechariah",
+          "Chapters": 14,
+          "BookNo": 45
+        },
+        {
+          "BookName": "Malachi",
+          "Chapters": 4,
+          "BookNo": 46
+        },
+        {
+          "BookName": "Matthew",
+          "Chapters": 28,
+          "BookNo": 47
+        },
+        {
+          "BookName": "Mark",
+          "Chapters": 16,
+          "BookNo": 48
+        },
+        {
+          "BookName": "Luke",
+          "Chapters": 24,
+          "BookNo": 49
+        },
+        {
+          "BookName": "John",
+          "Chapters": 21,
+          "BookNo": 50
+        },
+        {
+          "BookName": "Acts",
+          "Chapters": 28,
+          "BookNo": 51
+        },
+        {
+          "BookName": "Romans",
+          "Chapters": 16,
+          "BookNo": 52
+        },
+        {
+          "BookName": "1 Corinthians",
+          "Chapters": 16,
+          "BookNo": 53
+        },
+        {
+          "BookName": "2 Corinthians",
+          "Chapters": 13,
+          "BookNo": 54
+        },
+        {
+          "BookName": "Galatians",
+          "Chapters": 6,
+          "BookNo": 55
+        },
+        {
+          "BookName": "Ephesians",
+          "Chapters": 6,
+          "BookNo": 56
+        },
+        {
+          "BookName": "Philippians",
+          "Chapters": 4,
+          "BookNo": 57
+        },
+        {
+          "BookName": "Colossians",
+          "Chapters": 4,
+          "BookNo": 58
+        },
+        {
+          "BookName": "1 Thessalonians",
+          "Chapters": 5,
+          "BookNo": 59
+        },
+        {
+          "BookName": "2 Thessalonians",
+          "Chapters": 3,
+          "BookNo": 60
+        },
+        {
+          "BookName": "1 Timothy",
+          "Chapters": 6,
+          "BookNo": 61
+        },
+        {
+          "BookName": "2 Timothy",
+          "Chapters": 4,
+          "BookNo": 62
+        },
+        {
+          "BookName": "Titus",
+          "Chapters": 3,
+          "BookNo": 63
+        },
+        {
+          "BookName": "Philemon",
+          "Chapters": 1,
+          "BookNo": 64
+        },
+        {
+          "BookName": "Hebrews",
+          "Chapters": 13,
+          "BookNo": 65
+        },
+        {
+          "BookName": "James",
+          "Chapters": 5,
+          "BookNo": 66
+        },
+        {
+          "BookName": "1 Peter",
+          "Chapters": 5,
+          "BookNo": 67
+        },
+        {
+          "BookName": "2 Peter",
+          "Chapters": 3,
+          "BookNo": 68
+        },
+        {
+          "BookName": "1 John",
+          "Chapters": 5,
+          "BookNo": 69
+        },
+        {
+          "BookName": "2 John",
+          "Chapters": 1,
+          "BookNo": 70
+        },
+        {
+          "BookName": "3 John",
+          "Chapters": 1,
+          "BookNo": 71
+        },
+        {
+          "BookName": "Jude",
+          "Chapters": 1,
+          "BookNo": 72
+        },
+        {
+          "BookName": "Revelation",
+          "Chapters": 22,
+          "BookNo": 73
+        }
+      ]
+
+}
